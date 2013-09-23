@@ -1,4 +1,4 @@
 King-Bill
 =========
 
-Better Test
+This is a modified Better Test of the King Bill System.
